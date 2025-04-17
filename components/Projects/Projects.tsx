@@ -101,18 +101,9 @@ const Projects = () => {
       liveUrl: "https://music-ai-delta.vercel.app/",
       githubUrl: "https://github.com/saadrehman171000/AI-Music-Generation",
     },
+
     {
       id: 9,
-      title: "AI/ML Portfolio",
-      description: "Developed a sleek and responsive AI/ML Portfolio showcasing projects, real-time GitHub stats, and an AI-powered chatbot.",
-      image: "/projects/AiMLPortfolio.png",
-      category: ["fullstack", "ai"],
-      technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
-      liveUrl: "https://ali-shaikh-portfolio.vercel.app/",
-      githubUrl: "https://github.com/saadrehman171000/Ai-ML-Portfolio",
-    },
-    {
-      id: 10,
       title: "Music Therapy Dementia App",
       description: "React Native app designed to support dementia patients through personalized music playlists, therapeutic tools, and cognitive stimulation.",
       image: "/projects/DementiaApp.png",
