@@ -29,7 +29,12 @@ const orbitron = Orbitron({
 export const metadata: Metadata = {
   title: "Saad Rehman | Full Stack Developer & Data Scientist",
   description: "Portfolio of Saad Rehman - Full Stack Developer, Data Scientist, and AI Enthusiast",
-    generator: 'v0.dev'
+  generator: 'v0.dev',
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+    apple: '/favicon.svg',
+  }
 }
 
 export default function RootLayout({
