@@ -594,7 +594,7 @@ export interface BlogPost {
       `,
       image: "/blogs/data.webp",
       date: "February 12, 2024",
-      readTime: "7 min read",
+      readTime: "9 min read",
       category: "Database",
       slug: "optimizing-database-performance",
       author: "Saad Rehman",
