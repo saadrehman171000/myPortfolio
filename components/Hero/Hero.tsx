@@ -95,7 +95,7 @@ const Hero = () => {
             <div className={styles.imageWrapper}>
               <div className={styles.imageBorder}></div>
               <Image
-                src="/image/MyPic.png"
+                src="/image/UpdatedImage.jpeg"
                 alt="Saad Rehman"
                 width={500}
                 height={500}
